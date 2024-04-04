@@ -16,12 +16,12 @@ Our product range is designed primarily for professionals working on technical b
 
 ### Featured Products:
 
-- **Kloud'nX**: KNX Router - IoT with secure remote access, IoT integration, and cloud monitoring.
-- **Pool'nX**: KNX gateway for swimming pool connected with PoolCop or Klereo systems.
-- **Mod'nX**: Compact & Connected Input Module.
-- **Speak'nX**: Sound and visual diffuser with KNX-TP interface, Bluetooth, and Wi-Fi.
-- **Link'nX**: Smart Astronomical Clock.
-- **Graf'nX**: Energy Coach to take back control of your consumption.
+- **[Kloud'nX](https://can-nx.com/kloudnx-routeur-knx-iot-connecte-a-un-cloud-securise)**: KNX Router - IoT with secure remote access, IoT integration, and cloud monitoring.
+- **[Pool'nX](https://can-nx.com/poolnx-passerelle-knx-connectee-pour-poolcop-et-klereo/)**: KNX gateway for swimming pool connected with PoolCop or Klereo systems.
+- **[Mod'nX](https://can-nx.com/knx-module-dentrees-rail-din-compact-connecte/)**: Compact & Connected Input Module.
+- **[Speak'nX](https://can-nx.com/speaknx-diffuseur-sonore-knx-iot-personnalisable/)**: Sound and visual diffuser with KNX-TP interface, Bluetooth, and Wi-Fi.
+- **[Link'nX](https://can-nx.com/cannx-linknx-knx-iot-linker/)**: Smart Astronomical Clock.
+- **[Graf'nX](https://can-nx.com/cannx-grafnx-moniteur-denergies-reprenez-le-controle-de-vos-consommations)**: Energy Coach to take back control of your consumption.
 
 ## Recent Events
 
@@ -36,7 +36,7 @@ Stay updated with our recent events and innovations:
 Have a project in mind or need assistance with your KNX installation? Feel free to reach out to us:
 
 - Email: contact@can-nx.com
-- [Contact Form](https://yourwebsite.com/contact)
+- [Our Form](https://can-nx.com/forum/?lang=en)
 
 ## Join the Discussion
 
